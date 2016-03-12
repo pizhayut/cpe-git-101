@@ -13,3 +13,11 @@ function sub(x, y){
 function hi(){
 	console.log("hi");
 }
+
+function mul(x, y){
+	return x * y;
+}
+
+function div(x, y){
+	return x / y;
+}
